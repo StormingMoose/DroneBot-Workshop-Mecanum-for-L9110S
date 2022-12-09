@@ -7,4 +7,4 @@ Neo Pixels can be added but I did not have any and the unit drives fine without 
 
 Use the Android 1.8.19 IDE to flash the TTGO, 2.03 did not want to cooperate.
 
-Update 2_2 Made it work like Bill's fixed a mistake I made labelling wheels and reset some of the changes I made.
+Update 2_2 Made it work like Bill's fixed a mistake I made with the pin allocations to my wheels setup and reset some of the changes I made.
